@@ -55,7 +55,7 @@ const jwtClient = new JWT(config.clientEmail, null, config.privateKey, [
 ]);
 
 // // ID of the Google Sheets document
-// const spreadsheetId = 'YOUR_SPREADSHEET_ID';
+// const spreadsheetId = '';
 
 // // ID of the channel where the data will be posted
 // const channelId = '';
