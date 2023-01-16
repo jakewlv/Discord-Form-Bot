@@ -58,7 +58,7 @@ const jwtClient = new JWT(config.clientEmail, null, config.privateKey, [
 // const spreadsheetId = 'YOUR_SPREADSHEET_ID';
 
 // // ID of the channel where the data will be posted
-// const channelId = '746347236195041302';
+// const channelId = '';
 
 // client.on('ready', async () => {
 //     console.log(`Logged in as ${client.user.tag}!`);
